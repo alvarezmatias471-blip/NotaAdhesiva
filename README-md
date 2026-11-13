@@ -1,0 +1,22 @@
+# Nota adhesiva
+
+Aplicación de escritorio para crear una nota amarilla con recordatorios.
+
+## Requisitos
+
+- Windows.
+- Visual Studio con la carga de trabajo **Desarrollo de escritorio de .NET**.
+- .NET Framework 4.7.2.
+
+## Cómo ejecutarla
+
+1. Descarga el repositorio como ZIP y descomprímelo.
+2. Abre `NotaAdhesiva.csproj` en Visual Studio.
+3. Pulsa **F5**.
+
+## Funciones
+
+- La nota se puede mover por el escritorio.
+- El texto se guarda automáticamente y se recupera al volver a abrirla.
+- Al iniciar la aplicación, se configura para aparecer al iniciar sesión en Windows.
+- No queda siempre encima: otras aplicaciones pueden cubrirla.
